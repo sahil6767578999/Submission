@@ -1,4 +1,4 @@
-SoulBuddy: Your AI-Powered Spiritual Guide
+**SoulBuddy: Your AI-Powered Spiritual Guide**
 Description of the Solution:
 
 SoulBuddy is an advanced AI-driven platform designed to provide personalized spiritual guidance through the integration of astrology and numerology. The solution leverages cutting-edge technologies to generate detailed birth charts, insightful recommendations, and interactive spiritual advice, all tailored to the user’s unique birth details. By blending ancient wisdom with modern technology, SoulBuddy aims to empower users with actionable insights for personal growth, well-being, and harmony.
